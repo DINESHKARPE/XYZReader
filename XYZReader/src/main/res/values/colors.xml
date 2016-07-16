@@ -29,4 +29,6 @@
 
 
     <color name="transation">#00000000 </color>
+
+    <color name="textcolor">#6000</color>
 </resources>
