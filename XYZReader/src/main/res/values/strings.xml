@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">XYZ Reader</string>
+    <string name="welcome_xyz_reader">Welcome to XYZ Reader!</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="up">Up</string>
+
+
+    <string name="action_about">About</string>
+    <string name="action_share">Share</string>
+
+    <string name="no_information_available">No information available.</string>
+    <string name="empty_recycler_view_no_network">The network is not available. Please check the internet connectivity.</string>
+
+
+    <string name="about_title" >About</string>
+
+    <string name="about"><![CDATA[
+        This project has been modified to implement material design as per the project requirement of P5 \"Make Your App Material\" under Udacity Android Nanodegree program.
+        \n\n
+        XYZ Reader Load list of articles fetched from internet. All Titles, Images, and Information come from there]]>
+    </string>
+    <string name="swipe">Swipe to view next article</string>
+    <string name="article_cover">Article cover</string>
+
+
+    <!-- Transition related -->
+    <string name="head_prefix" translatable="false">HEAD</string>
+    <string name="sub_prefix" translatable="false">SUB</string>
+
+</resources>
